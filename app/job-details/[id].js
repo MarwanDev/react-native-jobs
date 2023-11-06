@@ -1,10 +1,10 @@
-import React from 'react';
+import { text } from 'react-native';
 
 const JobDetails = () => {
     return (
-        <div>
+        <text>
             JobDetails
-        </div>
+        </text>
     );
 }
 
